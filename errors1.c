@@ -50,7 +50,7 @@ void print_error(info_t *info, char *estr)
  * print_d - function prints a decimal (integer) number (base 10)
  * @input: the input
  * @fd: the filedescriptor to write to
- * this is the description for a file
+ * 
  * Return: number of characters printed
  */
 int print_d(int input, int fd)
